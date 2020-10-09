@@ -20,5 +20,6 @@
   "homepage": "https://github.com/pushpender2109/abc#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  
 }
